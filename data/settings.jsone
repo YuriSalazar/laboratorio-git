@@ -1,10 +1,6 @@
 {
   "entorno": "desarrollo",
   "version": "1.0.0",
-<<<<<<< HEAD
   "tema_por_defecto": "rojo",
-=======
-  "tema_por_defecto": "neon",
->>>>>>> 5a46c86e5728dd5dde83103071e09828c14eeae6
   "api_endpoint": "http://localhost:3000/api/v1"
 }
